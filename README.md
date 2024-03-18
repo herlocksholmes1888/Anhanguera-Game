@@ -1,2 +1,9 @@
-# Anhanguera-Game
-APS 3º Semestre Ciência da Computação UNIP
+# Anhanguera Game
+
+# Idealizadores
+Cristopher Martins
+Daniel
+Gabriel
+Gustavo
+Kaique 
+Luisa Lopes
